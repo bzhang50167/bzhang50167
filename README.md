@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hi there My name is Bao and I am an aspiring software engineer hoping to break into this field.👋
 
+- 🔭 I’m currently working on 
+- 🌱 I’m currently learning
 <!--
 **bzhang50167/bzhang50167** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
