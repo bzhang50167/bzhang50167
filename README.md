@@ -2,8 +2,13 @@
 
 **`Software Engineer`**
 
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning
+## I am a software engineer that went throught the App Academy bootcamp
+
+### Languages and Tools
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+
+
 <!--
 **bzhang50167/bzhang50167** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
