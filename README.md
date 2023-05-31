@@ -1,4 +1,6 @@
-### Hi there My name is Bao and I am an aspiring software engineer hoping to break into this field.👋
+###  🤖 🤖 Bao Zhang
+
+**`Software Engineer`**
 
 - 🔭 I’m currently working on 
 - 🌱 I’m currently learning
