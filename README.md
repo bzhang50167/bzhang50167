@@ -6,7 +6,13 @@
 
 ### Languages and Tools
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img align='left' alt='JS' width='40px' style='padding-right-10px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img align='left' alt='JS' width='40px' style='padding-right-10px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+<img align='left' alt='JS' width='40px' style='padding-right-10px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" />
+<img align='left' alt='JS' width='40px' style='padding-right-10px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
+<img align='left' alt='JS' width='40px' style='padding-right-10px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align='left' alt='JS' width='40px' style='padding-right-10px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align='left' alt='JS' width='40px' style='padding-right-10px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" />
 
 
 <!--
