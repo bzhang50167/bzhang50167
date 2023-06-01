@@ -4,6 +4,9 @@
 
 ## I am a software engineer that went throught the App Academy bootcamp
 
+## GitHub Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bzhang50167&show_icons=true&count_private=true&theme=algolia)
+
 ### Languages and Tools
 
 <img align='left' alt='JS' width='40px' style='padding-right-10px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
