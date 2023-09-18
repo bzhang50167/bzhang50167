@@ -2,7 +2,7 @@
 
 **`Software Engineer`**
 
-## I am a software engineer that went throught the App Academy bootcamp
+## I am a software engineer
 
 ## GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bzhang50167&show_icons=true&count_private=true&theme=algolia)
