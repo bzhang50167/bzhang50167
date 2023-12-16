@@ -5,7 +5,6 @@
 ## I am a software engineer
 
 ## GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bzhang50167&show_icons=true&count_private=true&theme=algolia)
 [![GitHub Streak](https://streak-stats.demolab.com?user=bzhang50167&theme=github-dark-blue)](https://git.io/streak-stats)
 ### Languages and Tools
 
