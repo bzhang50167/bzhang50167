@@ -2,7 +2,7 @@
 
 **`Software Engineer`**
 
-## I am a software engineer
+## Software engineer
 
 ## GitHub Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=bzhang50167&theme=github-dark-blue)](https://git.io/streak-stats)
