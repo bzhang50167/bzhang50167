@@ -5,7 +5,7 @@
 ## Software Engineer
 
 ## GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=bzhang50167&theme=github-dark-blue)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=bzhang50167&theme=github-dark-blue)](https://git.io/streak-stats)r
 ### Languages and Tools
 
 <img align='left' alt='JS' width='40px' style='padding-right-10px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
