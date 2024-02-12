@@ -2,7 +2,7 @@
 
 **`Software Engineer`**
 
-##  a Software Engineer
+##  Software Engineer
 
 ## GitHub Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=bzhang50167&theme=github-dark-blue)](https://git.io/streak-stats)
